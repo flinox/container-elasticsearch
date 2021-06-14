@@ -1,0 +1,4 @@
+/container/files/*
+/container/data/*
+/container/logs/*
+/container/app/*

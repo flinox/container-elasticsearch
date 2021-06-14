@@ -1,0 +1,1 @@
+docker build -t flinox/elastic-search:7.12.0 .
